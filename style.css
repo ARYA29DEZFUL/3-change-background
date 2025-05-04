@@ -1,0 +1,8 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#html{
+    transition: 1s;
+}
